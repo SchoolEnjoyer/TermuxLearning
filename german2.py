@@ -85,7 +85,7 @@ def start():
         input()
         os.system("clear")                  
     elif var == "0":
-        print(var + " Przykład") 
+        print("10" + " Przykład") 
         print(Fore.YELLOW + "Brać / Wziąść" + Fore.WHITE)
         input("1 forma: ")
         input("3 forma: ")
