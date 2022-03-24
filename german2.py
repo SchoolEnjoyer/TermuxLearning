@@ -1,9 +1,11 @@
-from colorama import Fore
+import colorama
 import random
 import os
 from time import sleep
 
 colorama.init()
+
+from colorama import Fore
 
 os.system("clear")   
 
